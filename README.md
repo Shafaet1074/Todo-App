@@ -10,6 +10,7 @@ A simple TODO app built using HTML, CSS, and JavaScript. This app allows you to 
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Visit Site](#visit-site)
 - [License](#license)
 
 ## Features
@@ -20,7 +21,7 @@ A simple TODO app built using HTML, CSS, and JavaScript. This app allows you to 
 
 ## Demo
 
-Insert a link to a live demo of your app or a video walkthrough.
+Visit the live demo [here](https://shafaet1074.github.io/Todo-App/) or check out the [demo video](#) for a walkthrough.
 
 ## Getting Started
 
